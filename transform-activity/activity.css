@@ -1,3 +1,6 @@
 main {
-
+    transform: skewX(-10deg) rotate(-10deg)
+}
+.wrapper {
+    width: auto;
 }
